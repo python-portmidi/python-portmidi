@@ -1,0 +1,12 @@
+build-python2.5
+build-python2.6
+build/
+debian/files
+debian/python-module-stampdir/
+debian/python-portmidi.debhelper.log
+debian/python-portmidi.postinst.debhelper
+debian/python-portmidi.prerm.debhelper
+debian/python-portmidi.substvars
+debian/python-portmidi/
+pypm.c
+
